@@ -1,6 +1,6 @@
-# Statenvertaling with Apocrypha (OSIS)
+# Statenvertaling *with Apocrypha* (OSIS)
 
-The idea is to add this apocrypha to the existing Sword module of the Statenvertaling.
+The idea is to have a solid base Statenvertaling module, to which the Apocrypha can be added optionally.
 
 ## Statenvertaling (base)
 Since the source of the official Sword module is unavailable, I have constructed an alternative base for the Statenvertaling without Apocrypha.
