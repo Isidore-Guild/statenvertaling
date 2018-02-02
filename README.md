@@ -3,7 +3,7 @@
 The idea is to have a solid base Statenvertaling module, to which the Apocrypha can be added optionally.
 
 ## Statenvertaling (base)
-Since the source of the official Sword module is unavailable, I have constructed an alternative base for the Statenvertaling without Apocrypha.
+Since the source of the official Sword module is unavailable, I have constructed an alternative base for the Statenvertaling without Apocrypha. In its current state, it compiles to a SWORD module without errors or warnings.
 
 ### Lacking from my new OSIS file that is present in the official module:
 * Chapter headings
