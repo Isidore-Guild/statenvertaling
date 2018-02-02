@@ -14,3 +14,9 @@ Since the source of the official Sword module is unavailable, I have constructed
 
 ### Other differences:
 * I have elected to mark the original versification in square brackets for now.
+
+## Apocrypha
+Strong’s Numbers are absent, for obvious reasons. 
+
+### Still to be added
+* Additions to Esther
