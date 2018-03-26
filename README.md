@@ -20,3 +20,6 @@ Strong’s Numbers are absent, for obvious reasons.
 
 ### Still to be added
 * Additions to Esther
+
+### Still to be fixed
+* The diaereses on e (ë) seem to have gone missing. I have compiled a list of verses with ë from the official module, which I will reduce to a list of words using ë.
