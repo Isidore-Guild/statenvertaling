@@ -21,7 +21,4 @@ Since the source of the official Sword module is unavailable, I have constructed
 * I have elected to mark the original versification in square brackets for now.
 
 ## Apocrypha
-Strong’s Numbers are absent, for obvious reasons. 
-
-### Still to be added
-* Additions to Esther
+Strong’s Numbers are absent, for obvious reasons. Additions to Esther have been made to fit the KJV versification, in the one chapter where there were too many verses. I should have a look at the other Apocyphra as well.
