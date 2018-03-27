@@ -1,4 +1,5 @@
 <div type="book" osisID="Tob">
+	<title type="main">Het boek Tobit anders genoemd Tobias</title>
 <chapter osisID="Tob.1">
 <verse osisID="Tob.1.1"> Het Boek der geschiedenissen van Tobias, de zoon van Tobias, de zoon van Ananiël, de zoon van Aduël, de zoon van Gabaël, uit het zaad van Azaël, uit de stam van Naftali. </verse>
 <verse osisID="Tob.1.2"> Die gevankelijk weggevoerd werd in de dagen van Enemessar, de koning der Assyriërs, uit Thisbe: welke gelegen is aan de rechter zijde der stad, eigenlijk Naftali genoemd, boven Aser, in Galilea. </verse>
@@ -305,6 +306,7 @@
 </chapter>
 </book>
 <div type="book" osisID="Jdt">
+	<title type="main">Het boek Judith</title>
 <chapter osisID="Jdt.1">
 <verse osisID="Jdt.1.1"> In het twaalfde jaar van het koninkrijk van Nabuchodonosor, die regeerde in de grote stad Nineve in de dagen van Arfaxad, welke regeerde over de Meden te Ecbatana, </verse>
 <verse osisID="Jdt.1.2"> En bouwde rondom Ecbatana muren van gehouwen stenen, die drie ellen waren in de breedte, en zes ellen in de lengte; en maakte de hoogte des muurs zeventig ellen, en zijn breedte vijftig ellen; </verse>
@@ -666,6 +668,7 @@
 </chapter>
 </book>
 <div type="book" osisID="Wis">
+	<title type="main">Het Boek der Wijsheid</title>
 <chapter osisID="Wis.1">
 <verse osisID="Wis.1.1"> Hebt de gerechtigheid lief, gij, die de aarde richt; hebt van de Here een goed gevoelen en zoekt hem in eenvoudigheid des harten. </verse>
 <verse osisID="Wis.1.2"> Want hij wordt gevonden door degenen die hem niet verzoeken, en verschijnt die, die hem niet wantrouwen. </verse>
@@ -1144,6 +1147,7 @@
 </chapter>
 </book>
 <div type="book" osisID="Sir">
+	<title type="main">Het boek Ecclesiasticus, anders genaamd Jezus Sirach of de wijsheid van Jezus, de zoon van Sirach.</title>
 <chapter osisID="Sir.1">
 <verse osisID="Sir.1.1"> Alle wijsheid is van de Here, en is met hem in der eeuwigheid. </verse>
 <verse osisID="Sir.1.2"> Wie zal het zand der zee en de droppelen van de regen en de dagen der eeuwen tellen? </verse>
@@ -2774,6 +2778,7 @@
 </chapter>
 </book>
 <div type="book" osisID="Bar">
+	<title type="main">Het boek Baruch</title>
 <chapter osisID="Bar.1">
 <verse osisID="Bar.1.1"> Dit zijn de redenen van het boek, die Baruch, de zoon van Neria, de zoon Mahasia, de zoon van Zedekia, de zoon Asadia, de zoon van Chelkia, geschreven heeft in Babylonië. </verse>
 <verse osisID="Bar.1.2"> In het vijfde jaar, de zevende dag der maand, op die tijd, in welke de Chaldeeën Jeruzalem ingenomen, en het met vuur verbrand hebben. </verse>
@@ -2925,6 +2930,7 @@
 <verse osisID="Bar.5.9"> Want God zal Israël uitvoeren met vreugde door het licht zijner heerlijkheid, met barmhartigheid en gerechtigheid, die van hem komt. </verse>
 </chapter>
 <chapter osisID="Bar.6">
+	<title type="main">De Brief van Jeremia</title>
 <verse osisID="Bar.6.1"> Om der zonden wil waarmee gij gezondigd hebt tegen God, zult gij van Nabuchodonosor, de koning der Babyloniërs, naar Babel gevankelijk weggevoerd worden. </verse>
 <verse osisID="Bar.6.2"> In Babylonië gekomen zijnde, zult gij daar vele jaren en lange tijd blijven, namelijk tot zeven geslachten toe, maar daarna zal ik ulieden van daar weder uitvoeren met vrede. </verse>
 <verse osisID="Bar.6.3"> Doch nu zult gij in Babylonië op de schouders zien dragen de zilveren, en gouden, en houten goden, die de heidenen vrees aandoen. </verse>
@@ -3000,6 +3006,7 @@
 </chapter>
 </book>
 <div type="book" osisID="1Macc">
+	<title type="main">Het eerste boek der Makkabeeën</title>
 <chapter osisID="1Macc.1">
 <verse osisID="1Macc.1.1"> En het geschiedde, nadat Alexander, de zoon van Filippus, de Macedoniër, die uit het land Chittim uittoog, Darius de koning der Perzen en Meden geslagen had, en in zijn plaats als koning regeerde, nadat hij tevoren in Griekenland geregeerd had; </verse>
 <verse osisID="1Macc.1.2"> Dat hij vele veldslagen voerde, en sterkten bemachtigde, en vele koningen der aarde versloeg; </verse>
@@ -3963,6 +3970,7 @@
 </chapter>
 </book>
 <div type="book" osisID="2Macc">
+	<title type="main">Het tweede boek der Makkabeeën</title>
 <chapter osisID="2Macc.1">
 <verse osisID="2Macc.1.1"> De broeders, de Joden, die te Jeruzalem, en die in het land van Judea zijn, wensen de broeders, de Joden, die in Egypte zijn, voorspoed en goede vrede. </verse>
 <verse osisID="2Macc.1.2"> God doe ulieden goed en gedenke aan zijn verbond dat Hij gemaakt heeft met Abraham, Izaäk en Jakob, zijn getrouwe dienstknechten. </verse>
@@ -4553,6 +4561,7 @@
 </chapter>
 </book>
 <div type="book" osisID="1Esd">
+	<title type="main">Het derde boek Ezra</title>
 <chapter osisID="1Esd.1">
 <verse osisID="1Esd.1.1"> En Josia hield zijn Here het Pascha te Jeruzalem, en slachtte het Pascha op de veertiende dag der eerste maand; </verse>
 <verse osisID="1Esd.1.2"> En stelde de priesters, die met lange klederen waren aangedaan, naar hun dagordening in de tempel des Heren. </verse>
@@ -5026,6 +5035,7 @@
 </chapter>
 </book>
 <div type="book" osisID="2Esd">
+	<title type="main">Het vierde boek Ezra</title>
 <chapter osisID="2Esd.1">
 <verse osisID="2Esd.1.1"> Het tweede boek van de profeet Ezra, de zoon van Barajas, de zoon van Azaria, de zoon van Helkia, de zoon van Sadania, de zoon van Zadok, de zoon van Ahitob, </verse>
 <verse osisID="2Esd.1.2"> De zoon van Amaria, de zoon van Hasaria, de zoon van Merasoth, de zoon van Sarchias, de zoon van Hazzi, de zoon van Bukki, de zoon van Abisua, de zoon van Pinehas, de zoon van Eleazar; </verse>
@@ -5934,6 +5944,7 @@
 </chapter>
 </book>
 <div type="book" osisID="3Macc">
+	<title type="main">Het derde boek der Makkabeeën</title>
 <chapter osisID="3Macc.1">
 <verse osisID="3Macc.1.1"> Als de koning Filopator verstond van degenen die wedergekeerd waren, dat de plaatsen, die hij bezet had, hem door Antiochus ontnomen waren, zo heeft hij al zijn krijgsvolk, beide te voet en te paard, ontboden; </verse>
 <verse osisID="3Macc.1.2"> En nam zijn zuster Arsinoë met zich, en spoedde zich naar de plaatsen langs Rafia gelegen, waar Antiochus en zijn krijgslieden hun leger hadden. </verse>
@@ -6129,6 +6140,7 @@
 </chapter>
 </book>
 <div type="book" osisID="PrMan">
+	<title type="main">Het gebed van Manasse</title>
 <chapter osisID="PrMan.1">
 <verse osisID="PrMan.1.1"> Here, almachtige God, gij God onzer vaderen van Abraham, Izaäk, en Jakob, en van hun zaad. </verse>
 <verse osisID="PrMan.1.2"> Die de hemel en de aarde gemaakt hebt met al hun sieraad. </verse>
@@ -6147,6 +6159,7 @@
 </chapter>
 </book>
 <div type="book" osisID="PrAzar">
+	<title type="main">Eerste aanhangsel aan het boek van de profeet Daniël, namelijk: Het gebed van Azaria hetwelk aan het derde hoofdstuk van Daniël, na het 23ste vers wordt gehecht.</title>
 <chapter osisID="PrAzar.1">
 <verse osisID="PrAzar.1.1">En zij wandelden in het midden der vlam, zingende God, en lovende de Here.</verse>
 <verse osisID="PrAzar.1.2">En Azaria stond en bad, en zijn mond geopend hebbende in het midden des vuurs, zeide hij:</verse>
@@ -6175,6 +6188,7 @@
 <verse osisID="PrAzar.1.25">En ging voort, en verbrandde de Chaldeeën, die zij rondom de oven vond.</verse>
 <verse osisID="PrAzar.1.26">En de engel des Heren daalde neder bij Azaria en zijne gezellen in de oven;</verse>
 <verse osisID="PrAzar.1.27">En stiet de vlam des vuurs uit de oven, en maakte het middelste des ovens alsof een windje van de dauw suisde, en het vuur raakte hen gans niet, en deed hun geen verdriet, noch enige bekommering aan.</verse>
+	<title>Tweede aanhangsel aan het boek van de profeet Daniël, namelijk: Het gezang der drie mannen in het vuur hetwelk op het Gebed van Azaria volgt.</title>
 <verse osisID="PrAzar.1.28">Toen zongen de drie als uit één mond, en loofden en prezen God in de oven, zeggende:</verse>
 <verse osisID="PrAzar.1.29">Geloofd zijt gij, Here, gij God onzer vaderen, die moet geprezen en hoog geroemd zijn in der eeuwigheid. Geloofd zij uw heerlijke naam die heilig is en hoog te prijzen en te roemen in der eeuwigheid.</verse>
 <verse osisID="PrAzar.1.30">Geloofd zijt gij in de tempel uwer heilige heerlijkheid, en hoog geprezen en hoog verheerlijkt zijt gij in der eeuwigheid.</verse>
@@ -6218,6 +6232,7 @@
 </chapter>
 </book>
 <div type="book" osisID="Sus">
+	<title type="main">Derde aanhangsel aan het boek van de profeet Daniël, namelijk: De geschiedenis van Susanna hetwelk gesteld wordt als het 13de hoofdstuk van Daniël.</title>
 <chapter osisID="Sus.1">
 <verse osisID="Sus.1.1">Daar was een man woonachtig te Babylon, wiens naam was Jojakim.</verse>
 <verse osisID="Sus.1.2">Die nam een vrouw genaamd Susanna, een dochter van Chelkias, welke zeer schoon was, en de Here vrezende.</verse>
@@ -6286,6 +6301,7 @@
 </chapter>
 </book>
 <div type="book" osisID="Bel">
+	<title type="main">Vierde aanhangsel aan het boek van de profeet Daniël, namelijk: De geschiedenis van Bel en de Draak te Babel hetwelk gesteld wordt als het 14de hoofdstuk van Daniël.</title>
 <chapter osisID="Bel.1">
 <verse osisID="Bel.1.1">En de koning Astyages werd vergaderd tot zijn vaderen, en Cyrus uit Perzië nam zijn koninkrijk over, en Daniël was altijd met de koning, en was heerlijker dan alle vrienden des konings.</verse>
 <verse osisID="Bel.1.2">De Babyloniërs hadden een afgod, die genoemd was Bel; aan deze werden alle dagen ten koste gelegd twaalf schepel meel, en veertig schapen, en zes metreten wijn.</verse>
@@ -6331,6 +6347,7 @@
 </chapter>
 </book>
 <div type="book" osisID="AddEsth">
+		<title type="main">Aanhangsel aan het boek Esther</title>
 <chapter osisID="AddEsth.10">
 <verse osisID="AddEsth.10.4">En Mordechai zeide: Deze dingen zijn van God geschied.</verse>
 <verse osisID="AddEsth.10.5">Want ik gedenk aan de droom, die ik van deze dingen gezien heb, want geen dezer is voorbijgegaan.</verse>
