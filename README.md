@@ -10,7 +10,7 @@ Since the source of the existing Sword module is unavailable, I have constructed
 * Words added to the translation are marked with transChange (these appear in Italics in the printed text)
 
 ### Other differences:
-* I have elected to mark the original versification in square brackets for now.
+* I have elected to mark the original versification in square brackets for now. The module's versification follows KJV.
 
 ## Apocrypha
-Strong’s Numbers are absent, for obvious reasons. Additions to Esther have been made to fit the KJV versification, in the one chapter where there were too many verses. I should have a look at the other Apocyphra as well.
+Strong’s Numbers are absent, for obvious reasons. Because of the presence of 3Macc, I have opted to the NRSVA versification here. It's not pretty, because not all books of the NRSVA are present, but when pasted in STV.xml osis2mod converts it without errors.
