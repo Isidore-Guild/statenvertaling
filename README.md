@@ -9,9 +9,6 @@ Since the source of the existing Sword module is unavailable, I have constructed
 * Strong’s Numbers
 * Words added to the translation are marked with transChange (these appear in Italics in the printed text)
 
-### To be fixed
-* The diaereses on e (ë) seem to have gone missing. I have compiled a list of verses with ë from the official module, which I will reduce to a list of words using ë.
-
 ### Other differences:
 * I have elected to mark the original versification in square brackets for now.
 
