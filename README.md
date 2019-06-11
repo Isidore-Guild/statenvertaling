@@ -12,5 +12,9 @@ Since the source of the existing Sword module is unavailable, I have constructed
 ### Other differences:
 * I have elected to mark the original versification in square brackets for now. The module's versification follows KJV.
 
+### Features I would like to add
+* The commentary module DutKant (Kanttekeningen Statenvertaling) should be merged into this as footnotes, since it concerns translation remarks.
+* Red Letter text
+
 ## Apocrypha
 Strong’s Numbers are absent, for obvious reasons. Because of the presence of 3Macc, I have opted to the NRSVA versification here. It's not pretty, because not all books of the NRSVA are present, but when pasted in STV.xml osis2mod converts it without errors.
