@@ -2,6 +2,8 @@
 
 The idea is to have a solid base Statenvertaling module, to which the Apocrypha can be added optionally.
 
+The transcription corresponds to a text stemming from the 1888 edition. 
+
 ## Statenvertaling (base)
 Since the source of the existing Sword module was unavailable when I began this project, I have constructed an alternative base for the Statenvertaling without Apocrypha. In its current state, it compiles to a SWORD module without errors or warnings. I have also manually copied the Chapter headings from the existing Sword module. Through a lot of work, I was also able to integrate the footnotes. This thus also supersedes the commentary module DutKant (Kanttekeningen Statenvertaling).
 
