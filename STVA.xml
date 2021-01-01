@@ -1,3 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace       http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="STVA" osisRefWork="Bible" xml:lang="nl">
+    <header>
+      <work osisWork="STVA">
+        <title>De Statenvertaling</title>
+        <description>De ganse Heilige Schrift bevattende al de kanonieke boeken van het Oude en Nieuwe Testament</description>
+        <type type="OSIS">Bible</type>
+        <identifier type="OSIS">STV</identifier>
+        <refSystem>Bible</refSystem>
+      </work>
+          <work osisWork="strong">
+      <refSystem>Dict.Strongs</refSystem>
+    </work>
+    </header>
 <div type="book" osisID="Tob">
 	<title type="main">Het boek Tobit anders genoemd Tobias</title>
 <chapter osisID="Tob.1">
@@ -6242,3 +6256,8 @@
 <verse osisID="EsthGr.16.24">Doch alle stad of land dat hiernaar niet zal hebben gedaan, zal door zwaard en vuur gans verdelgd worden, zonder genade, en zal niet alleen de mensen ontoegankelijk, maar ook de wilde dieren en vogelen voor altijd vijand gemaakt worden.</verse>
 </chapter>
 </div>
+  </osisText>
+</osis>
+
+
+
